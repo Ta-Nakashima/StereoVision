@@ -1,0 +1,66 @@
+-----------------------------------------------------
+0s, 0f
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------------------------------------
+0s, 1f
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------------------------------------
+0s, 2f
+Diff_Cal = 4 ms
+Diff_Cal = 4 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 2
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------------------------------------
+1s, 1f
+Diff_Cal = 3 ms
+Diff_Cal = 3 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 2
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------------------------------------
+1s, 2f

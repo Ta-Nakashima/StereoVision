@@ -1,0 +1,328 @@
+Cam1_Open : 1763.03 ms
+Cam2_Open : 3499.87 ms
+Time_Diff : 1736.84 ms
+***
+Cam1_Open : 6.04995 ms
+Cam2_Open : 12.9654 ms
+Time_Diff : 6.91547 ms
+***
+Cam1_Open : 4.61073 ms
+Cam2_Open : 9.50406 ms
+Time_Diff : 4.89333 ms
+***
+Cam1_Open : 2.96979 ms
+Cam2_Open : 5.61562 ms
+Time_Diff : 2.64583 ms
+***
+Cam1_Open : 3.235 ms
+Cam2_Open : 5.61073 ms
+Time_Diff : 2.37573 ms
+***
+Cam1_Open : 2.95964 ms
+Cam2_Open : 5.46682 ms
+Time_Diff : 2.50719 ms
+***
+Cam1_Open : 2.8287 ms
+Cam2_Open : 5.4301 ms
+Time_Diff : 2.60141 ms
+***
+Cam1_Open : 2.97594 ms
+Cam2_Open : 5.39521 ms
+Time_Diff : 2.41927 ms
+***
+Cam1_Open : 2.84583 ms
+Cam2_Open : 5.34396 ms
+Time_Diff : 2.49812 ms
+***
+Cam1_Open : 2.78417 ms
+Cam2_Open : 5.28911 ms
+Time_Diff : 2.50495 ms
+***
+Cam1_Open : 2.8763 ms
+Cam2_Open : 5.46162 ms
+Time_Diff : 2.58531 ms
+***
+Cam1_Open : 2.44182 ms
+Cam2_Open : 4.85922 ms
+Time_Diff : 2.4174 ms
+***
+Cam1_Open : 2.64984 ms
+Cam2_Open : 5.1838 ms
+Time_Diff : 2.53396 ms
+***
+Cam1_Open : 2.81156 ms
+Cam2_Open : 5.35401 ms
+Time_Diff : 2.54245 ms
+***
+Cam1_Open : 2.805 ms
+Cam2_Open : 5.23516 ms
+Time_Diff : 2.43016 ms
+***
+Cam1_Open : 3.11604 ms
+Cam2_Open : 5.70745 ms
+Time_Diff : 2.59141 ms
+***
+Cam1_Open : 2.77271 ms
+Cam2_Open : 5.33958 ms
+Time_Diff : 2.56688 ms
+***
+Cam1_Open : 2.5687 ms
+Cam2_Open : 5.06906 ms
+Time_Diff : 2.50036 ms
+***
+Cam1_Open : 3.22969 ms
+Cam2_Open : 5.8026 ms
+Time_Diff : 2.57292 ms
+***
+Cam1_Open : 2.79276 ms
+Cam2_Open : 5.26547 ms
+Time_Diff : 2.47271 ms
+***
+Cam1_Open : 2.78422 ms
+Cam2_Open : 5.37453 ms
+Time_Diff : 2.59031 ms
+***
+Cam1_Open : 3.16979 ms
+Cam2_Open : 5.94818 ms
+Time_Diff : 2.77839 ms
+***
+Cam1_Open : 4.20214 ms
+Cam2_Open : 7.23245 ms
+Time_Diff : 3.03031 ms
+***
+Cam1_Open : 3.29635 ms
+Cam2_Open : 5.96312 ms
+Time_Diff : 2.66677 ms
+***
+Cam1_Open : 3.26339 ms
+Cam2_Open : 6.6849 ms
+Time_Diff : 3.42151 ms
+***
+Cam1_Open : 2.94125 ms
+Cam2_Open : 5.55552 ms
+Time_Diff : 2.61427 ms
+***
+Cam1_Open : 3.05479 ms
+Cam2_Open : 5.73536 ms
+Time_Diff : 2.68057 ms
+***
+Cam1_Open : 3.07255 ms
+Cam2_Open : 6.53463 ms
+Time_Diff : 3.46208 ms
+***
+Cam1_Open : 2.84391 ms
+Cam2_Open : 5.33484 ms
+Time_Diff : 2.49094 ms
+***
+Cam1_Open : 3.33812 ms
+Cam2_Open : 5.9763 ms
+Time_Diff : 2.63818 ms
+***
+Cam1_Open : 3.25198 ms
+Cam2_Open : 6.39667 ms
+Time_Diff : 3.14469 ms
+***
+Cam1_Open : 2.74698 ms
+Cam2_Open : 5.38011 ms
+Time_Diff : 2.63313 ms
+***
+Cam1_Open : 3.09854 ms
+Cam2_Open : 5.72182 ms
+Time_Diff : 2.62328 ms
+***
+Cam1_Open : 3.28537 ms
+Cam2_Open : 6.77224 ms
+Time_Diff : 3.48687 ms
+***
+Cam1_Open : 2.8187 ms
+Cam2_Open : 5.45937 ms
+Time_Diff : 2.64068 ms
+***
+Cam1_Open : 3.0863 ms
+Cam2_Open : 5.61932 ms
+Time_Diff : 2.53302 ms
+***
+Cam1_Open : 3.14568 ms
+Cam2_Open : 6.62208 ms
+Time_Diff : 3.47641 ms
+***
+Cam1_Open : 2.82328 ms
+Cam2_Open : 5.33375 ms
+Time_Diff : 2.51047 ms
+***
+Cam1_Open : 3.26708 ms
+Cam2_Open : 5.88974 ms
+Time_Diff : 2.62266 ms
+***
+Cam1_Open : 3.28156 ms
+Cam2_Open : 5.93713 ms
+Time_Diff : 2.65557 ms
+***
+Cam1_Open : 2.83557 ms
+Cam2_Open : 5.28682 ms
+Time_Diff : 2.45125 ms
+***
+Cam1_Open : 3.00286 ms
+Cam2_Open : 5.51906 ms
+Time_Diff : 2.5162 ms
+***
+Cam1_Open : 2.79713 ms
+Cam2_Open : 5.85922 ms
+Time_Diff : 3.06208 ms
+***
+Cam1_Open : 3.42307 ms
+Cam2_Open : 5.7987 ms
+Time_Diff : 2.37562 ms
+***
+Cam1_Open : 3.15422 ms
+Cam2_Open : 5.63266 ms
+Time_Diff : 2.47844 ms
+***
+Cam1_Open : 3.15807 ms
+Cam2_Open : 5.87271 ms
+Time_Diff : 2.71464 ms
+***
+Cam1_Open : 3.50797 ms
+Cam2_Open : 5.9951 ms
+Time_Diff : 2.48714 ms
+***
+Cam1_Open : 3.25448 ms
+Cam2_Open : 5.59958 ms
+Time_Diff : 2.3451 ms
+***
+Cam1_Open : 3.23016 ms
+Cam2_Open : 5.77057 ms
+Time_Diff : 2.54042 ms
+***
+Cam1_Open : 3.07969 ms
+Cam2_Open : 6.1288 ms
+Time_Diff : 3.04911 ms
+***
+Cam1_Open : 3.0175 ms
+Cam2_Open : 5.4675 ms
+Time_Diff : 2.45 ms
+***
+Cam1_Open : 3.11958 ms
+Cam2_Open : 5.66646 ms
+Time_Diff : 2.54688 ms
+***
+Cam1_Open : 3.43724 ms
+Cam2_Open : 6.54073 ms
+Time_Diff : 3.10349 ms
+***
+Cam1_Open : 3.03719 ms
+Cam2_Open : 5.6237 ms
+Time_Diff : 2.58651 ms
+***
+Cam1_Open : 2.95823 ms
+Cam2_Open : 5.57651 ms
+Time_Diff : 2.61828 ms
+***
+Cam1_Open : 3.7974 ms
+Cam2_Open : 6.52245 ms
+Time_Diff : 2.72505 ms
+***
+Cam1_Open : 3.01807 ms
+Cam2_Open : 5.56281 ms
+Time_Diff : 2.54474 ms
+***
+Cam1_Open : 3.02463 ms
+Cam2_Open : 6.42344 ms
+Time_Diff : 3.3988 ms
+***
+Cam1_Open : 3.5526 ms
+Cam2_Open : 6.06651 ms
+Time_Diff : 2.51391 ms
+***
+Cam1_Open : 3.05161 ms
+Cam2_Open : 5.60328 ms
+Time_Diff : 2.55167 ms
+***
+Cam1_Open : 3.28776 ms
+Cam2_Open : 5.88417 ms
+Time_Diff : 2.59641 ms
+***
+Cam1_Open : 3.40474 ms
+Cam2_Open : 6.3574 ms
+Time_Diff : 2.95266 ms
+***
+Cam1_Open : 2.83818 ms
+Cam2_Open : 5.34776 ms
+Time_Diff : 2.50958 ms
+***
+Cam1_Open : 3.0837 ms
+Cam2_Open : 5.60927 ms
+Time_Diff : 2.52557 ms
+***
+Cam1_Open : 3.31656 ms
+Cam2_Open : 6.2926 ms
+Time_Diff : 2.97604 ms
+***
+Cam1_Open : 3.18927 ms
+Cam2_Open : 5.75792 ms
+Time_Diff : 2.56865 ms
+***
+Cam1_Open : 3.01063 ms
+Cam2_Open : 5.91167 ms
+Time_Diff : 2.90104 ms
+***
+Cam1_Open : 2.50463 ms
+Cam2_Open : 4.8188 ms
+Time_Diff : 2.31417 ms
+***
+Cam1_Open : 3.03578 ms
+Cam2_Open : 5.58276 ms
+Time_Diff : 2.54698 ms
+***
+Cam1_Open : 3.0676 ms
+Cam2_Open : 5.86974 ms
+Time_Diff : 2.80213 ms
+***
+Cam1_Open : 3.67365 ms
+Cam2_Open : 6.4812 ms
+Time_Diff : 2.80755 ms
+***
+Cam1_Open : 3.05161 ms
+Cam2_Open : 5.64891 ms
+Time_Diff : 2.59729 ms
+***
+Cam1_Open : 2.91458 ms
+Cam2_Open : 5.56182 ms
+Time_Diff : 2.64724 ms
+***
+Cam1_Open : 3.42318 ms
+Cam2_Open : 6.33271 ms
+Time_Diff : 2.90953 ms
+***
+Cam1_Open : 2.91953 ms
+Cam2_Open : 5.3688 ms
+Time_Diff : 2.44927 ms
+***
+Cam1_Open : 3.2863 ms
+Cam2_Open : 5.81448 ms
+Time_Diff : 2.52818 ms
+***
+Cam1_Open : 3.37885 ms
+Cam2_Open : 6.22406 ms
+Time_Diff : 2.84521 ms
+***
+Cam1_Open : 3.06078 ms
+Cam2_Open : 5.53948 ms
+Time_Diff : 2.4787 ms
+***
+Cam1_Open : 3.43729 ms
+Cam2_Open : 6.35661 ms
+Time_Diff : 2.91932 ms
+***
+Cam1_Open : 3.48521 ms
+Cam2_Open : 5.9324 ms
+Time_Diff : 2.44719 ms
+***
+Cam1_Open : 2.75641 ms
+Cam2_Open : 5.29177 ms
+Time_Diff : 2.53536 ms
+***
+Cam1_Open : 3.05448 ms
+Cam2_Open : 5.60115 ms
+Time_Diff : 2.54667 ms
+***

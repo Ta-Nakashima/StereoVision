@@ -1,0 +1,8362 @@
+-----------------------
+0s, 0f
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+0s, 1f
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+0s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 10 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 3 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 2
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+1s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 2
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+1s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 2
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+1s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 2
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+1s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 2
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+1s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 2
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+1s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 2
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+1s, 7f
+Diff_Cal = 1 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 2
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+1s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 2
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+1s, 9f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 9
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+2s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 9
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+2s, 2f
+Diff_Cal = 1 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 9
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+2s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 9
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+2s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 9
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+2s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 9
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+2s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 9
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+2s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 9
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+2s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+3s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+3s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+3s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+3s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+3s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+3s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+3s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+3s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+4s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+4s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 1 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+4s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+4s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+4s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+4s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+4s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 6 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+5s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+5s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 10 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+5s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+5s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 10 ms
+Cleate_Hist = 10 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+5s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 10 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+5s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 10 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+5s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 10 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+6s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 11 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+6s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+6s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+6s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+6s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+6s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+6s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+6s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+7s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+7s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+7s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+7s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+7s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+7s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+7s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+7s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+8s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+8s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+8s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+8s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+8s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+8s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+8s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+8s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+9s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+9s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+9s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+9s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+9s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+9s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+9s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 10 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+9s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 18 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+10s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 14 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+10s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+10s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+10s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+10s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+10s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+10s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+10s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+11s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+11s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+11s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+11s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+11s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+11s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+11s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+11s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+12s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+12s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+12s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+12s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+12s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+12s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+12s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 9 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+12s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 6 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+13s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+13s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+13s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+13s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+13s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+13s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+13s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+14s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+14s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+14s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+14s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+14s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+14s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 8 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+14s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+14s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+15s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+15s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+15s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+15s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+15s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+15s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+15s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+15s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+16s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+16s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+16s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+16s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+16s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+16s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+16s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+16s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+17s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+17s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+17s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+17s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+17s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+17s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+17s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+17s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+18s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+18s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+18s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+18s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+18s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+18s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+18s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+18s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+19s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+19s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+19s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 9 ms
+Cleate_Hist = 8 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+19s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+19s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 8 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+19s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+19s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+19s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+20s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+20s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+20s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+20s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+20s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+20s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+20s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+21s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+21s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+21s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+21s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+21s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+21s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+21s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+22s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+22s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+22s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+22s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+22s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+22s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+22s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+23s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+23s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+23s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+23s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+23s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+23s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+23s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+23s, 8f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+24s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+24s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+24s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+24s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+24s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+24s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 8
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+24s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+25s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+25s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+25s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+25s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+25s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+25s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+25s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 6 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+26s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+26s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+26s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+26s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+26s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+26s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+26s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+27s, 1f
+Diff_Cal = 4 ms
+Diff_Cal = 3 ms
+Cleate_Hist = 12 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 1
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+28s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 1
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+28s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 1
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+28s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 1
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+28s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 1
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+28s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 1
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+28s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 1
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+28s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+29s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+29s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+29s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+29s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+29s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+29s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+29s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+30s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+30s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+30s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+30s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+30s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+30s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+30s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+31s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+31s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+31s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+31s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+31s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+31s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+31s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+32s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+32s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+32s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+32s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+32s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+32s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+32s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+33s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+33s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+33s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+33s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+33s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+33s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+33s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+34s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+34s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+34s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+34s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+34s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+34s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+34s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+35s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+35s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+35s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+35s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+35s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+35s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+35s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+36s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+36s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 1 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+36s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+36s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+36s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+36s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+36s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+37s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+37s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+37s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+37s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+37s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+37s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+37s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+38s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+38s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+38s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+38s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 1 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+38s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+38s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+38s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+39s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+39s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+39s, 3f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+39s, 4f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+39s, 5f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+39s, 6f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+39s, 7f
+Diff_Cal = 2 ms
+Diff_Cal = 1 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+40s, 1f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 2 ms
+Reframe = 1 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+
+-----------------------
+40s, 2f
+Diff_Cal = 2 ms
+Diff_Cal = 2 ms
+Cleate_Hist = 7 ms
+Cleate_Hist = 7 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Hist_Ave = 0 ms
+Clarity = 5 ms
+Clarity = 5 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Judge_Rest = 0 ms
+Count_Mass = 0 ms
+Circle_Draw = 0 ms
+Circle_Draw = 0 ms
+Reframe = 1 ms
+Reframe = 2 ms
+Combine = 1 ms
+fps = 7
+Change_Flame = 0 ms
+Cnt = 0 ms
+

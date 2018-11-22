@@ -1,0 +1,197 @@
+---------------------------------------------------
+0s, 0f
+---------------------------------------------------
+0s, 1f
+---------------------------------------------------
+0s, 2f
+ヒストグラム最大値(↑) = 0
+ヒストグラム最大値(→) = 0
+ヒストグラム最大値(↑) = 9
+ヒストグラム最大値(→) = 6
+cam1_ave_G = 0
+cam1_ave_B = 2
+cam2_ave_G = 0
+cam2_ave_B = 5
+------cam1.Green------
+------cam1.Blue------
+------cam2.Green------
+SLOPE_UP = 1.5468
+SLOPE_UP = -1.52762
+st = 99, top = 108, en = 108
+
+stp = 69.4444, topp = 55.5556, enp = 55.5556
+--
+C_SLOPE_UP = -0.995828
+C_SLOPE_DOWN = 0
+st = 188, top = 203, en = 108
+
+stp = 55.5556, topp = 0, enp = 55.5556
+--
+検出位置(緑) = 108
+------cam2.Blue------
+st = 0, top = 0, en = 0
+
+stp = 62.5, topp = 62.5, enp = 62.5
+--
+C_SLOPE_UP = 0
+C_SLOPE_DOWN = 0
+st = 1, top = 1, en = 1
+
+stp = 62.5, topp = 62.5, enp = 62.5
+--
+C_SLOPE_UP = 0
+C_SLOPE_DOWN = 0
+st = 2, top = 2, en = 2
+
+stp = 20.8333, topp = 20.8333, enp = 20.8333
+--
+C_SLOPE_UP = 0
+C_SLOPE_DOWN = 0
+SLOPE_UP = 1.42778
+SLOPE_UP = -1.49892
+st = 19, top = 25, en = 25
+
+stp = 20.8333, topp = 0, enp = 0
+--
+SLOPE_UP = 1.53481
+SLOPE_UP = 1.49892
+SLOPE_UP = -1.42778
+st = 79, top = 97, en = 97
+
+stp = 41.6667, topp = 104.167, enp = 104.167
+--
+C_SLOPE_UP = 1.29038
+C_SLOPE_DOWN = 0
+st = 98, top = 113, en = 97
+
+stp = 62.5, topp = 0, enp = 104.167
+--
+検出位置(青) = 0
+検出位置(青) = 1
+検出位置(青) = 2
+検出位置(青) = 97
+--cam1_Circle--
+--cam2_Circle--
+(i,j) = 0 , 0
+top[i], top[j] = 1080
+pix = 12
+area = 15
+(i,j) = 0 , 1
+top[i], top[j] = 1081
+pix = 12
+area = 18
+(i,j) = 0 , 2
+top[i], top[j] = 1082
+pix = 12
+area = 21
+(i,j) = 0 , 3
+top[i], top[j] = 10897
+pix = 61
+area = 30
+---------------------------------------------------
+1s, 1f
+ヒストグラム最大値(↑) = 0
+ヒストグラム最大値(→) = 0
+ヒストグラム最大値(↑) = 9
+ヒストグラム最大値(→) = 6
+cam1_ave_G = 0
+cam1_ave_B = 1
+cam2_ave_G = 0
+cam2_ave_B = 3
+------cam1.Green------
+------cam1.Blue------
+------cam2.Green------
+SLOPE_UP = 1.5438
+SLOPE_UP = -1.5468
+st = 104, top = 110, en = 110
+
+stp = 13.8889, topp = 0, enp = 0
+--
+------cam2.Blue------
+SLOPE_UP = 1.53481
+SLOPE_UP = 0
+st = 92, top = 98, en = 98
+
+stp = 20.8333, topp = 104.167, enp = 104.167
+--
+C_SLOPE_UP = 1.49892
+C_SLOPE_DOWN = 0
+st = 99, top = 114, en = 98
+
+stp = 83.3333, topp = 0, enp = 104.167
+--
+検出位置(青) = 98
+--cam1_Circle--
+--cam2_Circle--
+---------------------------------------------------
+1s, 2f
+ヒストグラム最大値(↑) = 40
+ヒストグラム最大値(→) = 8
+ヒストグラム最大値(↑) = 11
+ヒストグラム最大値(→) = 7
+cam1_ave_G = 3
+cam1_ave_B = 3
+cam2_ave_G = 21
+cam2_ave_B = 6
+------cam1.Green------
+SLOPE_UP = 1.52031
+SLOPE_UP = -1.12328
+st = 212, top = 218, en = 218
+
+stp = 28.125, topp = 81.25, enp = 81.25
+--
+C_SLOPE_UP = 1.45833
+C_SLOPE_DOWN = 0
+SLOPE_UP = 1.51751
+SLOPE_UP = 0.805803
+SLOPE_UP = -1.4345
+st = 219, top = 231, en = 231
+
+stp = 46.875, topp = 37.5, enp = 37.5
+--
+C_SLOPE_UP = -0.663203
+C_SLOPE_DOWN = 0
+st = 232, top = 247, en = 231
+
+stp = 25, topp = 0, enp = 37.5
+--
+検出位置(緑) = 218
+検出位置(緑) = 231
+------cam1.Blue------
+SLOPE_UP = 1.50688
+SLOPE_UP = 1.3811
+SLOPE_UP = 1.47509
+SLOPE_UP = 0
+st = 95, top = 107, en = 107
+
+stp = 31.25, topp = 125, enp = 125
+--
+st = 108, top = 123, en = 107
+
+stp = 125, topp = 62.5, enp = 125
+--
+SLOPE_UP = 1.53242
+SLOPE_UP = 1.47509
+SLOPE_UP = 1.3811
+SLOPE_UP = 0
+st = 124, top = 142, en = 145
+
+stp = 31.25, topp = 125, enp = 109.375
+--
+st = 146, top = 161, en = 145
+
+stp = 109.375, topp = 0, enp = 109.375
+--
+------cam2.Green------
+SLOPE_UP = 1.52682
+SLOPE_UP = 1.43956
+SLOPE_UP = -1.5444
+SLOPE_UP = 1.5468
+SLOPE_UP = -1.5468
+st = 96, top = 111, en = 111
+
+stp = 22.7273, topp = 0, enp = 0
+--
+------cam2.Blue------
+st = 27, top = 42, en = 2123070888
+
